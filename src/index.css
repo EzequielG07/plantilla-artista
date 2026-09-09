@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+body {
+    background-color: var(--color-brand-bg, #fafafa);
+    color: var(--color-brand-text, #27272a);
+    font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        sans-serif;
+}
