@@ -20,7 +20,7 @@ export const artistaConfig: ArtistaConfig = {
         primario: '#18181b', // Títulos y encabezados
         acento: '#d97706', // Botones y enlaces
         fondo: '#fafafa', // Fondo principal de la web
-        tarjeta: '#ffffff', // Fondo de las tarjetas
+        tarjeta: '#ffffff', // Fondo de las tarjetas/header/footer
         texto: '#27272a', // Texto general
     },
 };
